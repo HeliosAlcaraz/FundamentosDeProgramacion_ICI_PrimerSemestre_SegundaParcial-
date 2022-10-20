@@ -58,7 +58,7 @@ Datos de salida: sum
 ## Ejercicio 2.- Obtenga la suma de los primeros cinco números pares.
 ### ANÁLISIS
 Datos de entrada: ninguno\
-Variables: i, sum
+Variables: i, sum\
 Datos de salida: sum
 ### DFD
 #### _For_
