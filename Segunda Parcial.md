@@ -55,11 +55,11 @@ Datos de salida: sum
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
 
 
-## Ejercicio 2.- 
+## Ejercicio 2.- Obtenga la suma de los primeros cinco números pares.
 ### ANÁLISIS
-Datos de entrada: 
-Variables: 
-Datos de salida: 
+Datos de entrada: ninguno\
+Variables: i, sum
+Datos de salida: sum
 ### DFD
 #### _For_
 ![2_DFD_For](https://user-images.githubusercontent.com/113320901/197063753-14be98bc-8b79-415b-8448-abc830c53110.png)
