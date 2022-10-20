@@ -13,3 +13,20 @@ Datos de salida: sum
 
 #### _Do-While_
   ![1_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/196837922-9aa73a7e-0117-4239-9641-8518ec8eb1c4.png)
+  
+### PRUEBA DE ESCRITORIO
+
+#### _For_
+| | | |
+| ----------- |----------- |----------- |
+|  |  |  |
+
+#### _While_
+| | | |
+| ----------- |----------- |----------- |
+|  |  |  |
+
+#### _Do-While_
+| | | |
+| ----------- |----------- |----------- |
+|  |  |  |
