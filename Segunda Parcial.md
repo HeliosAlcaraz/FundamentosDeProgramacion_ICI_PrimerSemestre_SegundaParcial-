@@ -8,7 +8,7 @@ Datos de salida: sum
 #### _For_
 ![1_DFD_For](https://user-images.githubusercontent.com/113320901/196837617-f0126e35-87bf-4851-8b36-8f878bbcadce.png)
 
-#### PRUEBA DE ESCRITORIO
+#### PRUEBA DE ESCRITORIO (For)
 |#  | i | i<=10 |sum=sum+i|sum|i+1|
 | ----------- |----------- |----------- |----------- |----------- |----------- |
 | 1 | 1 | 1<=10 | sum=0+1 | 1 | 2 |
@@ -24,7 +24,7 @@ Datos de salida: sum
 #### _While_
 ![1_DFD_While](https://user-images.githubusercontent.com/113320901/196837834-bc9d2655-ff1f-4f41-bad2-26c8c3579729.png)
 
-#### PRUEBA DE ESCRITORIO
+#### PRUEBA DE ESCRITORIO (While)
 | | | |
 | ----------- |----------- |----------- |
 |  |  |  |
