@@ -2,6 +2,7 @@
 ## Ejercicio 1.- Contar del 1 hasta el 10 y sumar los valores.
 ### ANÁLISIS
 Datos de entrada: ninguno\
+Variables: i, sum
 Datos de salida: sum
 ### DFD
 #### _For_
