@@ -65,3 +65,14 @@ Datos de salida:
 ![2_DFD_For](https://user-images.githubusercontent.com/113320901/197063753-14be98bc-8b79-415b-8448-abc830c53110.png)
 
 #### PRUEBA DE ESCRITORIO (For)
+|#  | i | i<=10 |sum=sum+i|sum|i+=2|
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 2 | 2<=10 | sum=0+2 | 2 | 4 |
+| 2 | 4 | 4<=10 | sum=2+4 | 6 | 6 |
+| 3 | 6 | 6<=10 | sum=6+6 | 12 |8 |
+| 4 | 8 | 8<=10 | sum=12+8 |20|10 |
+| 5 |10 | 10<=10| sum=20+10|30|12 |
+#### _While_
+![2_DFD_While](https://user-images.githubusercontent.com/113320901/197066700-6d292d72-fc7f-43fc-b924-60c41d1f89b0.png)
+
+#### PRUEBA DE ESCRITORIO (While)
