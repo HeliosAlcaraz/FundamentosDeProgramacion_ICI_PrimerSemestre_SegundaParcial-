@@ -1,9 +1,9 @@
 # Problemas resueltos en clase con Diagramas de Flujo de Datos
 ## Ejercicio 1.- Contar del 1 hasta el 10 y sumar los valores.
 ### ANÁLISIS
-Datos de entrada: ninguno\
-Variables: i, sum
-Datos de salida: sum
+Datos de entrada: ninguno (en todos)\
+Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)
+Datos de salida: sum (en todos)
 ### DFD
 #### _For_
 ![1_DFD_For](https://user-images.githubusercontent.com/113320901/196837617-f0126e35-87bf-4851-8b36-8f878bbcadce.png)
@@ -57,9 +57,9 @@ Datos de salida: sum
 
 ## Ejercicio 2.- Obtenga la suma de los primeros cinco números pares.
 ### ANÁLISIS
-Datos de entrada: ninguno\
-Variables: i, sum\
-Datos de salida: sum
+Datos de entrada: ninguno\ (en todos)\
+Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)\
+Datos de salida: sum (en todos)
 ### DFD
 #### _For_
 ![2_DFD_For](https://user-images.githubusercontent.com/113320901/197063753-14be98bc-8b79-415b-8448-abc830c53110.png)
@@ -87,3 +87,10 @@ Datos de salida: sum
 ![2_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197290650-50d2d5f6-6fc1-47f3-8287-716d7182efe1.png)
 
 #### PRUEBA DE ESCRITORIO (Do-While)
+|#  | cont | sum=sum+cont*2 | cont<=5|sum|cont=cont+1|
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 1 | sum=0+1*2 | 1<=5 | 2 | 2 |
+| 2 | 2 | sum=2+2*2 | 2<=5 | 6 | 3 |
+| 3 | 3 | sum=6+3*2 | 3<=5 | 12 |4 |
+| 4 | 4 | sum=12+4*2| 4<=5 |20 |5 |
+| 5 |5 | sum=20+5*2| 5<=5|30|6 |
