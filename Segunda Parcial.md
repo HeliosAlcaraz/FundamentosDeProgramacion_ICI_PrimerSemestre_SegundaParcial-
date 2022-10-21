@@ -98,18 +98,23 @@ Datos de salida: sum (en for y while)
 
 ## Ejercicio 3.- 
 ### ANÁLISIS
-Datos de entrada: ninguno\ (en todos)\
-Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)\
-Datos de salida: sum (en for y while)
+Datos de entrada: num\ (en todos)\
+Variables: i, num, A (en dfd de for).\
+Datos de salida: A (en for)
 ### DFD
 #### _For_
 ![3_DFD_For](https://user-images.githubusercontent.com/113320901/197297174-5f94695c-7abc-497a-80cc-384cc37c89f6.png)
 
 #### PRUEBA DE ESCRITORIO (For)
-|#  | i | i<=10 |sum=sum+i|sum|i+=2|
-| ----------- |----------- |----------- |----------- |----------- |----------- |
-| 1 | 2 | 2<=10 | sum=0+2 | 2 | 4 |
-| 2 | 4 | 4<=10 | sum=2+4 | 6 | 6 |
-| 3 | 6 | 6<=10 | sum=6+6 | 12 |8 |
-| 4 | 8 | 8<=10 | sum=12+8 |20|10 |
-| 5 |10 | 10<=10| sum=20+10|30|12 |
+|#  | num | i | i<=9 |A[i]=num|i++| A |
+| ----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 3 | 0 | 0<=9 | A[0]=3 | 1 | 3 |
+| 2 | 5 | 1 | 1<=9 | A[1]=5 | 2 | 3,5 |
+| 3 | 7 | 2 | 2<=9 | A[2]=7 | 3 | 3,5,7 |
+| 4 | 9 | 3 | 3<=9 | A[3]=9 | 4 | 3,5,7,9 |
+| 5 | 11 | 4 | 4<=9 | A[4]=11 | 5 | 3,5,7,9,11 |
+| 6 | 13 | 5 | 5<=9 | A[5]=13 | 6 | 3,5,7,9,11,13 |
+| 7 | 15 | 6 | 6<=9 | A[6]=15 | 7 | 3,5,7,9,11,13,15 |
+| 8 | 17 | 7 | 7<=9 | A[7]=17 | 8 | 3,5,7,9,11,13,15,17 |
+| 9 | 19 | 8 | 8<=9 | A[8]=19 | 9 | 3,5,7,9,11,13,15,17,19 |
+| 10 | 21 | 9 | 9<=9 | A[9]=21 | 10 | 3,5,7,9,11,13,15,17,19,21 |
