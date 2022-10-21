@@ -87,10 +87,10 @@ Datos de salida: sum (en todos)
 ![2_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197290650-50d2d5f6-6fc1-47f3-8287-716d7182efe1.png)
 
 #### PRUEBA DE ESCRITORIO (Do-While)
-|#  | cont | sum=sum+cont*2 | cont<=5|sum|cont=cont+1|
+|#  | cont | sum=sum+cont*2 | sum|cont=cont+1|cont<=5|
 | ----------- |----------- |----------- |----------- |----------- |----------- |
-| 1 | 1 | sum=0+1*2 | 1<=5 | 2 | 2 |
-| 2 | 2 | sum=2+2*2 | 2<=5 | 6 | 3 |
-| 3 | 3 | sum=6+3*2 | 3<=5 | 12 |4 |
-| 4 | 4 | sum=12+4*2| 4<=5 |20 |5 |
-| 5 |5 | sum=20+5*2| 5<=5|30|6 |
+| 1 | 1 | sum=0+1*2 |2 | 2 |1<=5|
+| 2 | 2 | sum=2+2*2 |6 | 3 |2<=5|
+| 3 | 3 | sum=6+3*2 |12| 4 |3<=5|
+| 4 | 4 | sum=12+4*2|20| 5 |4<=5|
+| 5 |5 | sum=20+5*2|30| 6 |5<=5|
