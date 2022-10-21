@@ -76,3 +76,14 @@ Datos de salida: sum
 ![2_DFD_While](https://user-images.githubusercontent.com/113320901/197066700-6d292d72-fc7f-43fc-b924-60c41d1f89b0.png)
 
 #### PRUEBA DE ESCRITORIO (While)
+|#  | cont | cont<=5 |sum=sum+cont*2|sum|cont=cont+1|
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 1 | 1<=5 | sum=0+1*2 | 2 | 2 |
+| 2 | 2 | 2<=5 | sum=2+2*2 | 6 | 3 |
+| 3 | 3 | 3<=5 | sum=6+3*2 | 12 |4 |
+| 4 | 4 | 4<=5 | sum=12+4*2 |20 |5 |
+| 5 |5 | 5<=5| sum=20+5*2|30|6 |
+#### _Do-While_
+![2_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197290650-50d2d5f6-6fc1-47f3-8287-716d7182efe1.png)
+
+#### PRUEBA DE ESCRITORIO (Do-While)
