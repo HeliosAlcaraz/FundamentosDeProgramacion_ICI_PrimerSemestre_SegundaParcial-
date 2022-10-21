@@ -59,7 +59,7 @@ Datos de salida: sum (en todos)
 ### ANÁLISIS
 Datos de entrada: ninguno\ (en todos)\
 Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)\
-Datos de salida: sum (en todos)
+Datos de salida: sum (en for y while)
 ### DFD
 #### _For_
 ![2_DFD_For](https://user-images.githubusercontent.com/113320901/197063753-14be98bc-8b79-415b-8448-abc830c53110.png)
