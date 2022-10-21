@@ -94,3 +94,22 @@ Datos de salida: sum (en for y while)
 | 3 | 3 | sum=6+3*2 |12| 4 |4<=5|
 | 4 | 4 | sum=12+4*2|20| 5 |5<=5|
 | 5 |5 | sum=20+5*2|30| 6 |5<=5|
+
+
+## Ejercicio 3.- 
+### ANÁLISIS
+Datos de entrada: ninguno\ (en todos)\
+Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)\
+Datos de salida: sum (en for y while)
+### DFD
+#### _For_
+![3_DFD_For](https://user-images.githubusercontent.com/113320901/197297174-5f94695c-7abc-497a-80cc-384cc37c89f6.png)
+
+#### PRUEBA DE ESCRITORIO (For)
+|#  | i | i<=10 |sum=sum+i|sum|i+=2|
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 2 | 2<=10 | sum=0+2 | 2 | 4 |
+| 2 | 4 | 4<=10 | sum=2+4 | 6 | 6 |
+| 3 | 6 | 6<=10 | sum=6+6 | 12 |8 |
+| 4 | 8 | 8<=10 | sum=12+8 |20|10 |
+| 5 |10 | 10<=10| sum=20+10|30|12 |
