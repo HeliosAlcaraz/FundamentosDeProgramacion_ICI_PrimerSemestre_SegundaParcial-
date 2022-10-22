@@ -253,3 +253,5 @@ Datos de salida: A (en todos)
 | 11 |10 | 10<11| 0| A[10]=0 | - | 11 |10,9,8,7,6,5,4,3,2,1,0|
 #### _Do-While_
 ![5_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197317179-7e1bad3d-d093-4e49-b497-14bf0d5b08dc.png)
+
+#### PRUEBA DE ESCRITORIO (Do-While)
