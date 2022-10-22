@@ -96,11 +96,11 @@ Datos de salida: sum (en for y while)
 | 5 |5 | sum=20+5*2|30| 6 |5<=5|
 
 
-## Ejercicio 3.- 
+## Ejercicio 3.- Almacene en un array el número n leído del teclado. El tamaño del array es 10. 
 ### ANÁLISIS
 Datos de entrada: num\ (en todos)\
 Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont, A, num (en el dfd de do-while)\
-Datos de salida: A (en for)
+Datos de salida: A (en todos)
 ### DFD
 #### _For_
 ![3_DFD_For](https://user-images.githubusercontent.com/113320901/197297174-5f94695c-7abc-497a-80cc-384cc37c89f6.png)
@@ -151,3 +151,11 @@ Datos de salida: A (en for)
 | 8 | 7 | 17 | A[7]=17 | 8 | 8<10 | 3,5,7,9,11,13,15,17 |
 | 9 | 8 | 19 | A[8]=19 | 9 | 9<10 | 3,5,7,9,11,13,15,17,19 |
 | 10 | 9 | 21 | A[9]=21 | 10 | 10<10 | 3,5,7,9,11,13,15,17,19,21 |
+
+## Ejercicio 4.- Usando for, while y do-while almacenar n números leídos del teclado en un vector de 10 elementos. 
+### ANÁLISIS
+Datos de entrada: num\ (en todos)\
+Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont, A, num (en el dfd de do-while)\
+Datos de salida: A (en todos)
+### DFD
+#### _For_
