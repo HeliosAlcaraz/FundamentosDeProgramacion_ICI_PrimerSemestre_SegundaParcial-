@@ -152,6 +152,7 @@ Datos de salida: A (en todos)
 | 9 | 8 | 19 | A[8]=19 | 9 | 9<10 | 3,5,7,9,11,13,15,17,19 |
 | 10 | 9 | 21 | A[9]=21 | 10 | 10<10 | 3,5,7,9,11,13,15,17,19,21 |
 
+
 ## Ejercicio 4.- Usando for, while y do-while almacenar n números leídos del teclado en un vector de 10 elementos. 
 ### ANÁLISIS
 Datos de entrada: num\ (en todos)\
@@ -193,3 +194,28 @@ Datos de salida: A (en todos)
 | 10 | 20 | 9 | 9<=9 | A[9]=20 | 10 | 2,4,6,8,10,12,14,16,18,20 |
 | 11 | 22 | 10 | 10<=9 | - | - | 2,4,6,8,10,12,14,16,18,20 |
 #### _Do-While_
+![4_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197314882-7f4bdb95-8ef9-416f-b9f5-bda62db2f909.png)
+
+#### PRUEBA DE ESCRITORIO (Do-While)
+|#  | cont | num | A[cont]=num |cont++|cont<=9| A |
+| ----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 | 0 | 2 | A[0]=2 |1| 1<=9 | 2 |
+| 2 | 1 | 4 | A[1]=4 |2| 2<=9 | 2,4 |
+| 3 | 2 | 6 | A[2]=6 |3| 3<=9 | 2,4,6 |
+| 4 | 3 | 8 | A[3]=8 |4| 4<=9 | 2,4,6,8 |
+| 5 | 4 | 10 | A[4]=10 |5| 5<=9 | 2,4,6,8,10 |
+| 6 | 5 | 12 | A[5]=12 |6| 6<=9 | 2,4,6,8,10,12 |
+| 7 | 6 | 14 | A[6]=14 |7| 7<=9 | 2,4,6,8,10,12,14 |
+| 8 | 7 | 16 | A[7]=16 |8| 8<=9 | 2,4,6,8,10,12,14,16 |
+| 9 | 8 | 18 | A[8]=18 |9| 9<=9 | 2,4,6,8,10,12,14,16,18 |
+| 10 | 9 | 20 | A[9]=20 |10| 10<=9 | 2,4,6,8,10,12,14,16,18,20 |
+
+
+## Ejercicio 5.- Almacenar un contador regresivo en un vector. El conteo es de 10 a 0. 
+### ANÁLISIS
+Datos de entrada: ninguno (en todos)\
+Variables: i, A, cont (en el dfd de for). cont, A, contnum (en el dfd de while). cont, contnum, A (en el dfd de do-while)\
+Datos de salida: A (en todos)
+### DFD
+#### _For_
+![5_DFD_For](https://user-images.githubusercontent.com/113320901/197315455-f0f32324-b494-4ff6-9559-a06f36d8c0d3.png)
