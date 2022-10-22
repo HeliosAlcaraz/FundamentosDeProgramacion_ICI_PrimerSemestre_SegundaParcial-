@@ -84,6 +84,11 @@ Datos de salida: sum (en for y while)
 | 3 | 6 | 6<=10 | sum=6+6 | 12 |8 |
 | 4 | 8 | 8<=10 | sum=12+8 |20|10 |
 | 5 |10 | 10<=10| sum=20+10|30|12 |
+
+#### CÓDIGO EN DART (For)
+![2_DFD_For](https://user-images.githubusercontent.com/113320901/197362992-204138a8-23ad-48af-9963-f4e71efb1521.png)
+
+
 #### _While_
 ![2_DFD_While](https://user-images.githubusercontent.com/113320901/197066700-6d292d72-fc7f-43fc-b924-60c41d1f89b0.png)
 
