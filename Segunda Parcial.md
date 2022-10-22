@@ -277,7 +277,7 @@ Variables: i, num, A (en el dfd de for). cont, num, A (en el dfd de while). cont
 Datos de salida: A (en todos)
 ### DFD
 #### _For_
-![6_DFD_For](https://user-images.githubusercontent.com/113320901/197348146-8bd926fe-cf8d-4575-97b4-9f029f4dd10b.png)
+![6_DFD_For](https://user-images.githubusercontent.com/113320901/197352813-a506281a-92a6-4346-a227-719ab7503eba.png)
 
 #### PRUEBA DE ESCRITORIO (For)
 | # | i  | i<=9 |num|n%2==0|A[i]=num|i++|i--| A |
