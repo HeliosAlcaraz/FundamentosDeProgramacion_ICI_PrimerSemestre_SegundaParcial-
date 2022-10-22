@@ -159,7 +159,7 @@ Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont
 Datos de salida: A (en todos)
 ### DFD
 #### _For_
-
+![4_DFD_For](https://user-images.githubusercontent.com/113320901/197313611-7fe4740f-c4af-4e71-9269-73df50b9eef4.png)
 
 #### PRUEBA DE ESCRITORIO (For)
 |#  | num | i | i<10 |A[i]=num|i++| A |
@@ -175,4 +175,4 @@ Datos de salida: A (en todos)
 | 9 | 18 | 8 | 8<10 | A[8]=18 | 9 | 2,4,6,8,10,12,14,16,18 |
 | 10 | 20 | 9 | 9<10 | A[9]=20 | 10 | 2,5,6,8,10,12,14,16,18,20 |
 | 11 | 22 | 10 | 10<10 | - | - | 2,5,6,8,10,12,14,16,18,20 |
-![4_DFD_For](https://user-images.githubusercontent.com/113320901/197313611-7fe4740f-c4af-4e71-9269-73df50b9eef4.png)
+
