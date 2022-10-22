@@ -21,6 +21,15 @@ Datos de salida: sum (en todos)
 | 8 | 8 | 8<=10 | sum=28+8| 36| 9 |
 | 9 | 9 | 9<=10 | sum=36+9| 45| 10 |
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
+
+#### CÓDIGO EN DART (For)
+void main() {
+  var sum=0;
+  for (var i=1;i<=10;i++)
+      sum=sum+i;
+  print(sum);
+}
+
 #### _While_
 ![1_DFD_While](https://user-images.githubusercontent.com/113320901/196837834-bc9d2655-ff1f-4f41-bad2-26c8c3579729.png)
 
