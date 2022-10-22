@@ -268,3 +268,13 @@ Datos de salida: A (en todos)
 | 9 |  8 | 2 | A[8]=2|  9 | 1 | 9<11 |10,9,8,7,6,5,4,3,2|
 | 10 | 9 | 1 | A[9]=1| 10 | 0 | 10<11 |10,9,8,7,6,5,4,3,2,1|
 | 11 |10 | 0| A[10]=0| 11 | - | 11<11 |10,9,8,7,6,5,4,3,2,1,0|
+
+
+## Ejercicio 6.- . 
+### ANÁLISIS
+Datos de entrada: num (en todos)\
+Variables: i, num, A (en el dfd de for). cont, num, A (en el dfd de while). cont, num, A (en el dfd de do-while)\
+Datos de salida: A (en todos)
+### DFD
+#### _For_
+![6_DFD_For](https://user-images.githubusercontent.com/113320901/197348146-8bd926fe-cf8d-4575-97b4-9f029f4dd10b.png)
