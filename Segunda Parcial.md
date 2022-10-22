@@ -49,7 +49,7 @@ Datos de salida: sum (en todos)
 #### _Do-While_
   ![1_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/196837922-9aa73a7e-0117-4239-9641-8518ec8eb1c4.png)
   
-  #### PRUEBA DE ESCRITORIO (Do-While)
+#### PRUEBA DE ESCRITORIO (Do-While)
 |#  | cont | cont<=10 |sum=sum+cont|sum|cont=cont+1|
 | ----------- |----------- |----------- |----------- |----------- |-----------|
 | 1 | 1 | 1<=10 | sum=0+1 | 1 | 2 |
@@ -62,6 +62,9 @@ Datos de salida: sum (en todos)
 | 8 | 8 | 8<=10 | sum=28+8| 36| 9 |
 | 9 | 9 | 9<=10 | sum=36+9| 45| 10 |
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
+
+#### CÓDIGO EN DART (Do-While)
+![1_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197362831-dbc0bfd1-53b5-491b-a410-cc3027b37e61.png)
 
 
 ## Ejercicio 2.- Obtenga la suma de los primeros cinco números pares.
