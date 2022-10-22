@@ -144,7 +144,11 @@ Datos de salida: A (en todos)
 | 9 | 19 | 8 | 8<=9 | A[8]=19 | 9 | 3,5,7,9,11,13,15,17,19 |
 | 10 | 21 | 9 | 9<=9 | A[9]=21 | 10 | 3,5,7,9,11,13,15,17,19,21 |
 
-#### CÓDIGO EN DART (For)
+#### CÓDIGO EN JAVA (For)
+![3_DFD_For](https://user-images.githubusercontent.com/113320901/197365432-355c6241-8e02-495d-8f71-ff5d84b13202.png)
+
+![3_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197365438-b8945594-154a-4ce7-bb31-c29cba99643a.png)
+
 
 #### _While_
 ![3_DFD_While](https://user-images.githubusercontent.com/113320901/197299189-d8e1af84-b47a-4bd1-852d-8f42cc0732cc.png)
