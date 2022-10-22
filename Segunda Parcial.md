@@ -25,7 +25,6 @@ Datos de salida: sum (en todos)
 #### CÓDIGO EN DART (For)
 ![1_DFD_For](https://user-images.githubusercontent.com/113320901/197362302-d6845409-223d-4ddb-9e7b-b3f39ab74032.png)
 
-
 #### _While_
 ![1_DFD_While](https://user-images.githubusercontent.com/113320901/196837834-bc9d2655-ff1f-4f41-bad2-26c8c3579729.png)
 
@@ -42,6 +41,11 @@ Datos de salida: sum (en todos)
 | 8 | 8 | 8<=10 | sum=28+8| 36| 9 |
 | 9 | 9 | 9<=10 | sum=36+9| 45| 10 |
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
+
+#### CÓDIGO EN DART (While)
+![1_DFD_While](https://user-images.githubusercontent.com/113320901/197362552-bdfa4161-9779-40a1-846e-5b9899ac3569.png)
+
+
 #### _Do-While_
   ![1_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/196837922-9aa73a7e-0117-4239-9641-8518ec8eb1c4.png)
   
