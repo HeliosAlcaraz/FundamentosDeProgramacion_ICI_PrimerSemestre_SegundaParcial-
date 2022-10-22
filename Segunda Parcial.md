@@ -57,7 +57,7 @@ Datos de salida: sum (en todos)
 
 ## Ejercicio 2.- Obtenga la suma de los primeros cinco números pares.
 ### ANÁLISIS
-Datos de entrada: ninguno\ (en todos)\
+Datos de entrada: ninguno (en todos)\
 Variables: i, sum (en dfd de for). cont, sum (en dfd de while). cont, sum (en dfd de do-while)\
 Datos de salida: sum (en for y while)
 ### DFD
@@ -98,7 +98,7 @@ Datos de salida: sum (en for y while)
 
 ## Ejercicio 3.- Almacene en un array el número n leído del teclado. El tamaño del array es 10. 
 ### ANÁLISIS
-Datos de entrada: num\ (en todos)\
+Datos de entrada: num (en todos)\
 Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont, A, num (en el dfd de do-while)\
 Datos de salida: A (en todos)
 ### DFD
@@ -155,7 +155,7 @@ Datos de salida: A (en todos)
 
 ## Ejercicio 4.- Usando for, while y do-while almacenar n números leídos del teclado en un vector de 10 elementos. 
 ### ANÁLISIS
-Datos de entrada: num\ (en todos)\
+Datos de entrada: num (en todos)\
 Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont, A, num (en el dfd de do-while)\
 Datos de salida: A (en todos)
 ### DFD
