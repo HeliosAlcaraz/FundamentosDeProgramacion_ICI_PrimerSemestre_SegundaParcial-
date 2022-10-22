@@ -295,3 +295,7 @@ Datos de salida: A (en todos)
 | 11 | 8 | 8<=9 | 8 |  sí  | A[8]=8 | 9 | - |2,2,4,6,2,4,2,2,8|
 | 12 | 9 | 9<=9 | 5 |  no  |   -    |10 | 9 |2,2,4,6,2,4,2,2,8|
 | 13 | 9 | 9<=9 |34 |  sí  | A[9]=34|10 | - |2,2,4,6,2,4,2,2,8,34|
+#### _While_
+![6_DFD_While](https://user-images.githubusercontent.com/113320901/197352901-c1f8105c-ecca-416d-9360-deb140979a44.png)
+
+#### PRUEBA DE ESCRITORIO (While)
