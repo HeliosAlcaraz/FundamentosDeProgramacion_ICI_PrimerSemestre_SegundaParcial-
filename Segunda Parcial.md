@@ -23,12 +23,8 @@ Datos de salida: sum (en todos)
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
 
 #### CÓDIGO EN DART (For)
-void main() {\
-  var sum=0;\
-  for (var i=1;i<=10;i++)\
-      sum=sum+i;\
-  print(sum);\
-}
+![1_DFD_For](https://user-images.githubusercontent.com/113320901/197362302-d6845409-223d-4ddb-9e7b-b3f39ab74032.png)
+
 
 #### _While_
 ![1_DFD_While](https://user-images.githubusercontent.com/113320901/196837834-bc9d2655-ff1f-4f41-bad2-26c8c3579729.png)
