@@ -167,6 +167,13 @@ Datos de salida: A (en todos)
 | 9 | 19 | 8 | 8<10 | A[8]=19 | 9 | 3,5,7,9,11,13,15,17,19 |
 | 10 | 21 | 9 | 9<10 | A[9]=21 | 10 | 3,5,7,9,11,13,15,17,19,21 |
 | 11 | 23 | 10 | 10<10 | - | - | 3,5,7,9,11,13,15,17,19,21 |
+
+#### CÓDIGO EN JAVA (While)
+![3_DFD_While](https://user-images.githubusercontent.com/113320901/197366087-5c6d068a-b166-417d-8d2c-c4662ee53769.png)
+
+![3_DFD_While_Run](https://user-images.githubusercontent.com/113320901/197366093-2fd456a5-1e16-4ddc-870e-cda6b4a6710f.png)
+
+
 #### _Do-While_
 ![3_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197308348-a8f3c0ee-0692-4c27-9f61-7076e746f279.png)
 
@@ -183,6 +190,11 @@ Datos de salida: A (en todos)
 | 8 | 7 | 17 | A[7]=17 | 8 | 8<10 | 3,5,7,9,11,13,15,17 |
 | 9 | 8 | 19 | A[8]=19 | 9 | 9<10 | 3,5,7,9,11,13,15,17,19 |
 | 10 | 9 | 21 | A[9]=21 | 10 | 10<10 | 3,5,7,9,11,13,15,17,19,21 |
+
+#### CÓDIGO EN JAVA (Do-While)
+![3_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197366229-3d7e9f22-6049-45b1-9929-9e19c06dff2c.png)
+
+![3_DFD_DoWhile_Run](https://user-images.githubusercontent.com/113320901/197366235-4b954fbd-7608-427d-8a6d-f6a339dcd6a6.png)
 
 
 ## Ejercicio 4.- Usando for, while y do-while almacenar n números leídos del teclado en un vector de 10 elementos. 
