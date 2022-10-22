@@ -4,7 +4,7 @@
 # FACULTAD DE INGENIERÍA MECÁNICA Y ELÉCTRICA
 ## Ingeniería en Computación Inteligente
 ### Fundamentos de Programación
-####-Segunda Parcial-
+#### Segunda Parcial
 **Estudiante:**\
 Helios José Alcaraz Saucedo\
 **Grado y Grupo:** \
