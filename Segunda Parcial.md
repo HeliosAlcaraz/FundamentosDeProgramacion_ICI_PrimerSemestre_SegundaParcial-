@@ -159,3 +159,4 @@ Variables: i, num, A (en el dfd de for). cont, A, num (en el dfd de while). cont
 Datos de salida: A (en todos)
 ### DFD
 #### _For_
+![4_DFD_For](https://user-images.githubusercontent.com/113320901/197310003-bf400baf-d6f0-43d3-a0ad-003493830d22.png)
