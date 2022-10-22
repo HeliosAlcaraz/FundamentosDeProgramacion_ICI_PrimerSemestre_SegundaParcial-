@@ -235,7 +235,7 @@ Datos de salida: A (en todos)
 | 10 | 9 | 9<11 | 1| A[9]=1  | 0 | 10 |10,9,8,7,6,5,4,3,2,1|
 | 11 |10 | 10<11| 0| A[10]=0 | - | 11 |10,9,8,7,6,5,4,3,2,1,0|
 #### _While_
-![5_DFD_While](https://user-images.githubusercontent.com/113320901/197316730-a74caa3d-8c04-439b-8bff-d11f12b5272b.png)
+![5_DFD_While](https://user-images.githubusercontent.com/113320901/197317141-91dcfdb6-5920-4f37-a41a-7869583d0eb4.png)
 
 #### PRUEBA DE ESCRITORIO (While)
 | # | cont  | cont<11 |contnum|A[cont]=contnum| contnum=contnum-1|cont++| A |
