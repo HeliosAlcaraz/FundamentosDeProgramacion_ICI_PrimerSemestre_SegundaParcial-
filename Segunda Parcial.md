@@ -23,11 +23,11 @@ Datos de salida: sum (en todos)
 | 10 | 10 | 10<=10 | sum=45+10| 55| 11 |
 
 #### CÓDIGO EN DART (For)
-void main() {
-  var sum=0;
-  for (var i=1;i<=10;i++)
-      sum=sum+i;
-  print(sum);
+void main() {\
+  var sum=0;\
+  for (var i=1;i<=10;i++)\
+      sum=sum+i;\
+  print(sum);\
 }
 
 #### _While_
