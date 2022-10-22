@@ -270,7 +270,7 @@ Datos de salida: A (en todos)
 | 11 |10 | 0| A[10]=0| 11 | - | 11<11 |10,9,8,7,6,5,4,3,2,1,0|
 
 
-## Ejercicio 6.- . 
+## Ejercicio 6.- Almacene en un vector de tamaño 10 todos los números pares capturados hasta completar todos. 
 ### ANÁLISIS
 Datos de entrada: num (en todos)\
 Variables: i, num, A (en el dfd de for). cont, num, A (en el dfd de while). cont, num, A (en el dfd de do-while)\
@@ -278,3 +278,18 @@ Datos de salida: A (en todos)
 ### DFD
 #### _For_
 ![6_DFD_For](https://user-images.githubusercontent.com/113320901/197348146-8bd926fe-cf8d-4575-97b4-9f029f4dd10b.png)
+
+#### PRUEBA DE ESCRITORIO (For)
+| # | i  | i<=9 |num|n%2==0|A[i]=num|i++|i--| A |
+| ----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 |  0 | 0<=9 |2| sí | A[0]=2 | 1 | - |2|
+| 2 |  1 | 1<=9 |2| sí | A[1]=2 | 2 | - |2,2|
+| 3 |  2 | 2<=9 |1| no |   -    | 3 | 2 |2,2|
+| 4 |  2 | 2<=9 |4| sí | A[2]=4 | 3 | - |2,2,4|
+| 5 |  3 | 3<=9 |6| sí | A[3]=6 | 4 | - |2,2,4,6|
+| 6 |  4 | 4<=9 |2| sí | A[4]=2 | 5 | - |2,2,4,6,2|
+| 7 |  5 | 5<=9 |9| no |   -    | 6 | 5 |2,2,4,6,2|
+| 8 |  5 | 5<=9 |4| sí | A[5]=4 | 6 | - |2,2,4,6,2,4|
+| 9 |  6 | 6<=9 |2| sí | A[6]=2 | 7 | - |2,2,4,6,2,4,2|
+| 10 | 7 | 7<=9 |2| sí | A[7]=2 | 8 | - |2,2,4,6,2,4,2,2|
+| 11 | 8 | 8<=9 |8| sí | A[8]=8 | 9 | - |2,2,4,6,2,4,2,2,8|
