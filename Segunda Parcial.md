@@ -100,6 +100,11 @@ Datos de salida: sum (en for y while)
 | 3 | 3 | 3<=5 | sum=6+3*2 | 12 |4 |
 | 4 | 4 | 4<=5 | sum=12+4*2 |20 |5 |
 | 5 |5 | 5<=5| sum=20+5*2|30|6 |
+
+#### CÓDIGO EN DART (While)
+![2_DFD_While](https://user-images.githubusercontent.com/113320901/197363206-92e7a46d-0cae-454d-b839-49205b1679d7.png)
+
+
 #### _Do-While_
 ![2_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197290650-50d2d5f6-6fc1-47f3-8287-716d7182efe1.png)
 
@@ -111,6 +116,8 @@ Datos de salida: sum (en for y while)
 | 3 | 3 | sum=6+3*2 |12| 4 |4<=5|
 | 4 | 4 | sum=12+4*2|20| 5 |5<=5|
 | 5 |5 | sum=20+5*2|30| 6 |5<=5|
+
+#### CÓDIGO EN DART (Do-While)
 
 
 ## Ejercicio 3.- Almacene en un array el número n leído del teclado. El tamaño del array es 10. 
