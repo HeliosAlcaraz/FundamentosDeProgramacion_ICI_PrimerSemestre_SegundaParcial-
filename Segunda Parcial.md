@@ -399,6 +399,12 @@ Datos de salida: A (en todos)
 | 12 | 9 |  9<10  | 5 |  no  |   -    | 9 |2,2,4,6,2,4,2,2,8|
 | 13 | 9 |  9<10  |34 |  sí  | A[9]=34|10 |2,2,4,6,2,4,2,2,8,34|
 | 14 |10 | 10<10  | - |   -  |    -   | - |2,2,4,6,2,4,2,2,8,34|
+
+#### CÓDIGO EN JAVA (While)
+![6_DFD_While](https://user-images.githubusercontent.com/113320901/197368878-aa81a19c-6fdf-4439-9aca-5e5dd4f3e012.png)
+
+![6_DFD_While_Run](https://user-images.githubusercontent.com/113320901/197368885-19749860-3c7a-43ca-b61f-e7bf21a71288.png)
+
 #### _Do-While_
 ![6_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197353485-5835bdee-0910-42c2-80b9-5313fdde00fe.png)
 
