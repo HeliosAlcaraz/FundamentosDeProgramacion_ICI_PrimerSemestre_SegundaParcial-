@@ -377,7 +377,9 @@ Datos de salida: A (en todos)
 | 13 | 9 | 9<=9 |34 |  sí  | A[9]=34|10 | - |2,2,4,6,2,4,2,2,8,34|
 
 #### CÓDIGO EN JAVA (For)
+![6_DFD_For](https://user-images.githubusercontent.com/113320901/197369202-9b5cf08e-3984-4489-8f19-ed0ebbd3d726.png)
 
+![6_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197369208-4b8188fb-c7ca-473a-81c7-ea148521a628.png)
 
 #### _While_
 ![6_DFD_While](https://user-images.githubusercontent.com/113320901/197352901-c1f8105c-ecca-416d-9360-deb140979a44.png)
