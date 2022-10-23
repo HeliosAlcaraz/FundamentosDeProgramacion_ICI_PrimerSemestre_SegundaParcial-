@@ -459,3 +459,10 @@ Datos de salida: sumA/contA, mayor, contR
 |14 |13 |  10   | 79 |  3  |13<15|14 |  7  |    sí   |  11   |   3   |    sumA=79+7  |
 |15 |14 |  11   | 86 |  3  |14<15|15 | 10  |    sí   |  12   |   3   |    sumA=86+10 |
 |16 |15 |  12   | 96 |  3  |15<15| - | -   |     -   |  12   |   3   |        -      |
+
+#### CÓDIGO EN JAVA
+![7_DFD_For1](https://user-images.githubusercontent.com/113320901/197409900-ad29879d-e806-461c-a936-661b284f37c9.png)
+
+![7_DFD_For2](https://user-images.githubusercontent.com/113320901/197409907-297c2fb5-7ff3-4fda-abb5-e7105d24b60c.png)
+
+![7_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197409920-ed549b6d-c2bb-4ce8-b1ea-5d1240c7b8f3.png)
