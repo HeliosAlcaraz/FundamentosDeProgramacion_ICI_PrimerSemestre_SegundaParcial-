@@ -220,6 +220,13 @@ Datos de salida: A (en todos)
 | 9 | 18 | 8 | 8<10 | A[8]=18 | 9 | 2,4,6,8,10,12,14,16,18 |
 | 10 | 20 | 9 | 9<10 | A[9]=20 | 10 | 2,5,6,8,10,12,14,16,18,20 |
 | 11 | 22 | 10 | 10<10 | - | - | 2,5,6,8,10,12,14,16,18,20 |
+
+#### CÓDIGO EN JAVA (For)
+![4_DFD_For](https://user-images.githubusercontent.com/113320901/197366857-19a05957-732d-4130-a2e2-e598900b7d3f.png)
+
+![4_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197366863-def89c30-3971-48b6-83df-ea7155eecd0c.png)
+
+
 #### _While_
 ![4_DFD_While](https://user-images.githubusercontent.com/113320901/197314292-9b488536-9f95-4e43-8b2d-6cbed90b95aa.png)
 
@@ -237,6 +244,13 @@ Datos de salida: A (en todos)
 | 9 | 18 | 8 | 8<=9 | A[8]=18 | 9 | 2,4,6,8,10,12,14,16,18 |
 | 10 | 20 | 9 | 9<=9 | A[9]=20 | 10 | 2,4,6,8,10,12,14,16,18,20 |
 | 11 | 22 | 10 | 10<=9 | - | - | 2,4,6,8,10,12,14,16,18,20 |
+
+#### CÓDIGO EN JAVA (While)
+![4_DFD_While](https://user-images.githubusercontent.com/113320901/197366871-378769e2-ab08-4f49-8912-cb2501c4c56b.png)
+
+![4_DFD_While_Run](https://user-images.githubusercontent.com/113320901/197366874-7a00a724-a242-40cd-a169-0c9ac0e9c905.png)
+
+
 #### _Do-While_
 ![4_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197314882-7f4bdb95-8ef9-416f-b9f5-bda62db2f909.png)
 
@@ -253,6 +267,11 @@ Datos de salida: A (en todos)
 | 8 | 7 | 16 | A[7]=16 |8| 8<=9 | 2,4,6,8,10,12,14,16 |
 | 9 | 8 | 18 | A[8]=18 |9| 9<=9 | 2,4,6,8,10,12,14,16,18 |
 | 10 | 9 | 20 | A[9]=20 |10| 10<=9 | 2,4,6,8,10,12,14,16,18,20 |
+
+#### CÓDIGO EN JAVA (Do-While)
+![4_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197366881-24408382-38fb-4432-9b79-4cbae3b2246a.png)
+
+![4_DFD_DoWhile_Run](https://user-images.githubusercontent.com/113320901/197366885-1a146585-aac8-4224-87d0-da816a1f5433.png)
 
 
 ## Ejercicio 5.- Almacenar un contador regresivo en un vector. El conteo es de 10 a 0. 
