@@ -344,6 +344,11 @@ Datos de salida: A (en todos)
 | 10 | 9 | 1 | A[9]=1| 10 | 0 | 10<11 |10,9,8,7,6,5,4,3,2,1|
 | 11 |10 | 0| A[10]=0| 11 | - | 11<11 |10,9,8,7,6,5,4,3,2,1,0|
 
+#### CÓDIGO EN JAVA (Do-While)
+![5_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197367738-d6dfbf28-9c17-42cc-a133-ab5d9d89e5f5.png)
+
+![5_DFD_DoWhile_Run](https://user-images.githubusercontent.com/113320901/197367741-6e288221-a023-406e-9524-a28591d7c7cc.png)
+
 
 ## Ejercicio 6.- Almacene en un vector de tamaño 10 todos los números pares capturados hasta completar todos. 
 ### ANÁLISIS
@@ -370,6 +375,10 @@ Datos de salida: A (en todos)
 | 11 | 8 | 8<=9 | 8 |  sí  | A[8]=8 | 9 | - |2,2,4,6,2,4,2,2,8|
 | 12 | 9 | 9<=9 | 5 |  no  |   -    |10 | 9 |2,2,4,6,2,4,2,2,8|
 | 13 | 9 | 9<=9 |34 |  sí  | A[9]=34|10 | - |2,2,4,6,2,4,2,2,8,34|
+
+#### CÓDIGO EN JAVA (For)
+
+
 #### _While_
 ![6_DFD_While](https://user-images.githubusercontent.com/113320901/197352901-c1f8105c-ecca-416d-9360-deb140979a44.png)
 
