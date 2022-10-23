@@ -320,6 +320,12 @@ Datos de salida: A (en todos)
 | 9 |  8 | 8<11 | 2| A[8]=2  | 1 | 9 |10,9,8,7,6,5,4,3,2|
 | 10 | 9 | 9<11 | 1| A[9]=1  | 0 | 10 |10,9,8,7,6,5,4,3,2,1|
 | 11 |10 | 10<11| 0| A[10]=0 | - | 11 |10,9,8,7,6,5,4,3,2,1,0|
+
+#### CÓDIGO EN JAVA (While)
+![5_DFD_While](https://user-images.githubusercontent.com/113320901/197367561-64e7709a-c228-48df-b343-f52bbaca0c50.png)
+
+![5_DFD_While_Run](https://user-images.githubusercontent.com/113320901/197367562-e6ec77c6-dfba-4516-b1c7-468723064d26.png)
+
 #### _Do-While_
 ![5_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197317179-7e1bad3d-d093-4e49-b497-14bf0d5b08dc.png)
 
