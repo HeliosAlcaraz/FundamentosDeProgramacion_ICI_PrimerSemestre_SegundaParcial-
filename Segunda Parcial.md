@@ -430,3 +430,14 @@ Datos de salida: A (en todos)
 ![6_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197368607-032a1643-8ae1-4c00-a8d5-6c7a95e822b9.png)
 
 ![6_DFD_DoWhile_Run](https://user-images.githubusercontent.com/113320901/197368614-8c27626f-42d0-4d57-870b-6c45d17634bb.png)
+
+
+## Ejercicio 7.- Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados. La calificación es entre 0 y 10. El máximo de alumnos es 15. Indique la calificación más alta. 
+### ANÁLISIS
+Datos de entrada: calif\
+Variables: calif, mayor, A, contA, sumA, contR, i\
+Datos de salida: sumA/contA, mayor, contR
+### DFD
+![7_DFD_For](https://user-images.githubusercontent.com/113320901/197399040-c896bdcc-c17a-49c0-ae92-26cb7192c2be.png)
+
+#### PRUEBA DE ESCRITORIO
