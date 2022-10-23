@@ -441,3 +441,7 @@ Datos de salida: sumA/contA, mayor, contR
 ![7_DFD_For](https://user-images.githubusercontent.com/113320901/197399040-c896bdcc-c17a-49c0-ae92-26cb7192c2be.png)
 
 #### PRUEBA DE ESCRITORIO
+| # | i | contA |sumA|contR|i<15|i++|calif| calif>5 |contA++|contR++|sumA=sumA+calif|
+| --|-- |------ |--- |---- |--- |-- |---- |-------- |------ |------ |-------------- |
+| 1 | 0 |   0   | 0  |  0  |0<15| 1 |  9  |    sí   |   1   |   -   |    sumA=0+9   |
+| 2 | 1 |   1   | 9  |  0  |1<15| 2 |  6  |    sí   |   2   |   -   |    suma=9+6   |
