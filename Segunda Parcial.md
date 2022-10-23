@@ -297,6 +297,12 @@ Datos de salida: A (en todos)
 | 9 |  8 | 8<11 | 2| A[8]=2  | 1 | 9 |10,9,8,7,6,5,4,3,2|
 | 10 | 9 | 9<11 | 1| A[9]=1  | 0 | 10 |10,9,8,7,6,5,4,3,2,1|
 | 11 |10 | 10<11| 0| A[10]=0 | - | 11 |10,9,8,7,6,5,4,3,2,1,0|
+
+#### CÓDIGO EN JAVA (For)
+![5_DFD_For](https://user-images.githubusercontent.com/113320901/197367181-080dc32f-8b98-41f1-af3f-f2f18fd8520a.png)
+
+![5_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197367185-002d76b9-75b5-414f-b3e3-404bcfaf465a.png)
+
 #### _While_
 ![5_DFD_While](https://user-images.githubusercontent.com/113320901/197317141-91dcfdb6-5920-4f37-a41a-7869583d0eb4.png)
 
