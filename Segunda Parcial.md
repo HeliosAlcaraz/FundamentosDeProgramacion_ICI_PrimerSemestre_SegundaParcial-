@@ -417,3 +417,8 @@ Datos de salida: A (en todos)
 | 10 | 7 | 24 |  A[7]=24  |  8 | 8<10 | sí | - |10,8,6,4,20,12,2,24|
 | 11 | 8 |  4 |  A[8]=4   |  9 | 9<10 | sí | - |10,8,6,4,20,12,2,24,4|
 | 12 | 9 | 32 |  A[9]=32  | 10 |10<10 |  - | - |10,8,6,4,20,12,2,24,4,32|
+
+#### CÓDIGO EN JAVA (Do-While)
+![6_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197368607-032a1643-8ae1-4c00-a8d5-6c7a95e822b9.png)
+
+![6_DFD_DoWhile_Run](https://user-images.githubusercontent.com/113320901/197368614-8c27626f-42d0-4d57-870b-6c45d17634bb.png)
