@@ -434,8 +434,8 @@ Datos de salida: A (en todos)
 
 ## Ejercicio 7.- Obtenga el promedio de las calificaciones aprobatorias y la cantidad de alumnos reprobados. La calificación es entre 0 y 10. El máximo de alumnos es 15. Indique la calificación más alta. 
 ### ANÁLISIS
-Datos de entrada: calif\
-Variables: calif, mayor, A, contA, sumA, contR, i\
+Datos de entrada: calif (en todos)\
+Variables: calif, mayor, A, contA, sumA, contR, i (en for). calif, mayor, A, cont, contA, sumA, contR (en while y do-while) \
 Datos de salida: sumA/contA, mayor, contR
 ### DFD
 #### _For_
@@ -500,4 +500,27 @@ Datos de salida: sumA/contA, mayor, contR
 
 ![7_DFD_While_Run2](https://user-images.githubusercontent.com/113320901/197445281-8e06b0da-b2ce-432a-a122-8ccc3ba7562f.png)
 
+#### _Do-While_
+![7_DFD_DoWhile](https://user-images.githubusercontent.com/113320901/197446254-1e01215b-d4dc-4ae1-90bf-b3b86deac605.png)
 
+#### PRUEBA DE ESCRITORIO (Do-While)
+| # | cont | contA |sumA|contR| cont<15|cont++|calif| calif>5 |contA++|contR++|sumA=sumA+calif|
+| --|----- |------ |--- |---- |------- |----- |---- |-------- |------ |------ |-------------- |
+| 1 |  0   |   0   |  0 |  0  |  0<15  |   1  |  9  |    sí   |   1   |   -   |    sumA=0+9   |
+| 2 |  1   |   1   |  9 |  0  |  1<15  |   2  |  6  |    sí   |   2   |   -   |    sumA=9+6   |
+| 3 |  2   |   2   | 15 |  0  |  2<15  |   3  |  8  |    sí   |   3   |   -   |    sumA=15+8  |
+| 4 |  3   |   3   | 23 |  0  |  3<15  |   4  |  5  |    no   |   3   |   1   |       -       |
+| 5 |  4   |   3   | 23 |  1  |  4<15  |   5  |  7  |    sí   |   4   |   1   |    sumA=23+7  |
+| 6 |  5   |   4   | 30 |  1  |  5<15  |   6  | 10  |    sí   |   5   |   1   |    sumA=30+10 |
+| 7 |  6   |   5   | 40 |  1  |  6<15  |   7  |  3  |    no   |   5   |   2   |       -       |
+| 8 |  7   |   5   | 40 |  2  |  7<15  |   8  |  8  |    sí   |   6   |   2   |    sumA=40+8  |
+| 9 |  8   |   6   | 48 |  2  |  8<15  |   9  |  8  |    sí   |   7   |   2   |    sumA=48+8  |
+|10 |  9   |   7   | 56 |  2  |  9<15  |  10  |  8  |    sí   |   8   |   2   |    sumA=56+8  |
+|11 | 10   |   8   | 64 |  2  | 10<15  |  11  |  6  |    sí   |   9   |   2   |    sumA=64+6  |
+|12 | 11   |   9   | 70 |  2  | 11<15  |  12  |  4  |    no   |   9   |   3   |        -      |
+|13 | 12   |   9   | 70 |  3  | 12<15  |  13  |  9  |    sí   |  10   |   3   |    sumA=70+9  |
+|14 | 13   |  10   | 79 |  3  | 13<15  |  14  |  7  |    sí   |  11   |   3   |    sumA=79+7  |
+|15 | 14   |  11   | 86 |  3  | 14<15  |  15  | 10  |    sí   |  12   |   3   |    sumA=86+10 |
+|16 | 15   |  12   | 96 |  3  | 15<15  |   -  | -   |     -   |  12   |   3   |        -      |
+
+#### CÓDIGO EN JAVA (Do-While)
