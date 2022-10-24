@@ -492,3 +492,12 @@ Datos de salida: sumA/contA, mayor, contR
 |16 | 15   |  12   | 96 |  3  | 15<15  |   -  | -   |     -   |  12   |   3   |        -      |
 
 #### CÓDIGO EN JAVA (While)
+![7_DFD_While1](https://user-images.githubusercontent.com/113320901/197445189-e2629baa-2596-4526-be3a-3f993ff0d248.png)
+
+![7_DFD_While2](https://user-images.githubusercontent.com/113320901/197445226-3985f4cb-ae2c-45c4-bbfb-9e3497a689fe.png)
+
+![7_DFD_While_Run1](https://user-images.githubusercontent.com/113320901/197445255-a2b1bb92-0b25-460b-b662-b9ff0fb23a44.png)
+
+![7_DFD_While_Run2](https://user-images.githubusercontent.com/113320901/197445281-8e06b0da-b2ce-432a-a122-8ccc3ba7562f.png)
+
+
