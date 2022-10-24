@@ -436,7 +436,7 @@ Datos de salida: A (en todos)
 ### ANÁLISIS
 Datos de entrada: calif (en todos)\
 Variables: calif, mayor, A, contA, sumA, contR, i (en for). calif, mayor, A, cont, contA, sumA, contR (en while y do-while) \
-Datos de salida: sumA/contA, mayor, contR
+Datos de salida: sumA/contA, mayor, contR (en todos)
 ### DFD
 #### _For_
 ![7_DFD_For](https://user-images.githubusercontent.com/113320901/197399040-c896bdcc-c17a-49c0-ae92-26cb7192c2be.png)
