@@ -524,3 +524,10 @@ Datos de salida: sumA/contA, mayor, contR (en todos)
 |16 | 15   |  12   | 96 |  3  | 15<15  |   -  | -   |     -   |  12   |   3   |        -      |
 
 #### CÓDIGO EN JAVA (Do-While)
+![7_DFD_DoWhile1](https://user-images.githubusercontent.com/113320901/197447484-79296847-d927-42b4-a2e2-67fd3a416e25.png)
+
+![7_DFD_DoWhile2](https://user-images.githubusercontent.com/113320901/197447499-50a07c87-5698-4e15-a159-c0d42354f81f.png)
+
+![7_DFD_DoWhile_Run1](https://user-images.githubusercontent.com/113320901/197447522-ec9e711b-ab76-4d14-9fdc-5a70674d678d.png)
+
+![7_DFD_DoWhile_Run2](https://user-images.githubusercontent.com/113320901/197447541-21ecd352-79b2-4748-aa11-b7a000a4998f.png)
