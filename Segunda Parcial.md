@@ -438,9 +438,10 @@ Datos de entrada: calif\
 Variables: calif, mayor, A, contA, sumA, contR, i\
 Datos de salida: sumA/contA, mayor, contR
 ### DFD
+#### _For_
 ![7_DFD_For](https://user-images.githubusercontent.com/113320901/197399040-c896bdcc-c17a-49c0-ae92-26cb7192c2be.png)
 
-#### PRUEBA DE ESCRITORIO
+#### PRUEBA DE ESCRITORIO (For)
 | # | i | contA |sumA|contR| i<15|i++|calif| calif>5 |contA++|contR++|sumA=sumA+calif|
 | --|-- |------ |--- |---- |---- |-- |---- |-------- |------ |------ |-------------- |
 | 1 | 0 |   0   |  0 |  0  | 0<15| 1 |  9  |    sí   |   1   |   -   |    sumA=0+9   |
@@ -460,9 +461,34 @@ Datos de salida: sumA/contA, mayor, contR
 |15 |14 |  11   | 86 |  3  |14<15|15 | 10  |    sí   |  12   |   3   |    sumA=86+10 |
 |16 |15 |  12   | 96 |  3  |15<15| - | -   |     -   |  12   |   3   |        -      |
 
-#### CÓDIGO EN JAVA
+#### CÓDIGO EN JAVA (For)
 ![7_DFD_For1](https://user-images.githubusercontent.com/113320901/197409900-ad29879d-e806-461c-a936-661b284f37c9.png)
 
 ![7_DFD_For2](https://user-images.githubusercontent.com/113320901/197409907-297c2fb5-7ff3-4fda-abb5-e7105d24b60c.png)
 
 ![7_DFD_For_Run](https://user-images.githubusercontent.com/113320901/197409920-ed549b6d-c2bb-4ce8-b1ea-5d1240c7b8f3.png)
+
+#### _While_
+![7_DFD_While](https://user-images.githubusercontent.com/113320901/197440478-4048457e-3f48-4043-bdab-d1315fc303d6.png)
+
+#### PRUEBA DE ESCRITORIO (While)
+| # | cont | contA |sumA|contR| cont<15|cont++|calif| calif>5 |contA++|contR++|sumA=sumA+calif|
+| --|----- |------ |--- |---- |------- |----- |---- |-------- |------ |------ |-------------- |
+| 1 |  0   |   0   |  0 |  0  |  0<15  |   1  |  9  |    sí   |   1   |   -   |    sumA=0+9   |
+| 2 |  1   |   1   |  9 |  0  |  1<15  |   2  |  6  |    sí   |   2   |   -   |    sumA=9+6   |
+| 3 |  2   |   2   | 15 |  0  |  2<15  |   3  |  8  |    sí   |   3   |   -   |    sumA=15+8  |
+| 4 |  3   |   3   | 23 |  0  |  3<15  |   4  |  5  |    no   |   3   |   1   |       -       |
+| 5 |  4   |   3   | 23 |  1  |  4<15  |   5  |  7  |    sí   |   4   |   1   |    sumA=23+7  |
+| 6 |  5   |   4   | 30 |  1  |  5<15  |   6  | 10  |    sí   |   5   |   1   |    sumA=30+10 |
+| 7 |  6   |   5   | 40 |  1  |  6<15  |   7  |  3  |    no   |   5   |   2   |       -       |
+| 8 |  7   |   5   | 40 |  2  |  7<15  |   8  |  8  |    sí   |   6   |   2   |    sumA=40+8  |
+| 9 |  8   |   6   | 48 |  2  |  8<15  |   9  |  8  |    sí   |   7   |   2   |    sumA=48+8  |
+|10 |  9   |   7   | 56 |  2  |  9<15  |  10  |  8  |    sí   |   8   |   2   |    sumA=56+8  |
+|11 | 10   |   8   | 64 |  2  | 10<15  |  11  |  6  |    sí   |   9   |   2   |    sumA=64+6  |
+|12 | 11   |   9   | 70 |  2  | 11<15  |  12  |  4  |    no   |   9   |   3   |        -      |
+|13 | 12   |   9   | 70 |  3  | 12<15  |  13  |  9  |    sí   |  10   |   3   |    sumA=70+9  |
+|14 | 13   |  10   | 79 |  3  | 13<15  |  14  |  7  |    sí   |  11   |   3   |    sumA=79+7  |
+|15 | 14   |  11   | 86 |  3  | 14<15  |  15  | 10  |    sí   |  12   |   3   |    sumA=86+10 |
+|16 | 15   |  12   | 96 |  3  | 15<15  |   -  | -   |     -   |  12   |   3   |        -      |
+
+#### CÓDIGO EN JAVA (While)
