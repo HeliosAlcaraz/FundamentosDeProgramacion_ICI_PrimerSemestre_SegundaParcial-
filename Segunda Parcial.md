@@ -587,3 +587,26 @@ Datos de salida: A
 ![Extra2](https://user-images.githubusercontent.com/113320901/197682962-95512182-cf40-49e5-9d20-992e65c0c961.png)
 
 ![Extra2_Run](https://user-images.githubusercontent.com/113320901/197682984-c393fe71-fbd6-4fa1-a93e-608fbe12aa26.png)
+
+## Ejercicio 10.- Capturar diez números enteros positivos, almacenarlos en un vector de diez y decir qué número es el mayor y cuál es el menor.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: n, num, i, t, mayor, menor\
+Datos de salida: num, mayor, menor
+### DFD
+![3_DFD_Extra](https://user-images.githubusercontent.com/113320901/197902605-036d42ce-edbf-4a9c-a59d-c9cbf2796b1f.png)
+
+#### PRUEBA DE ESCRITORIO 
+| # | i | i<=9 | n | i++| A| mayor| menor|
+| --|-- |---- |--- |---- |---- |---- |---- |
+| 1 | 0 |  0<=9  | 3 |  1  |  3| | |
+| 2 | 1 |  1<=9  | 5 |  2  | 3,5| | |
+| 3 | 2 |  2<=9  | 3 |  3  | 3,5,3| | |
+| 4 | 3 |  3<=9  | 7 |  4  | 3,5,3,7| | |
+| 5 | 4 |  4<=9  | 9 |  5  | 3,5,3,7,9| | |
+| 6 | 5 |  5<=9  | 1 |  6  | 3,5,3,7,9,1| | |
+| 7 | 6 |  6<=9  | 8 |  7  | 3,5,3,7,9,1,7| | |
+| 8 | 7 |  7<=9  | 6 |  8  | 3,5,3,7,9,1,7,6| | |
+| 9 | 8 |  8<=9  |11 |  9  | 3,5,3,7,9,1,7,6,11| | |
+|10 | 9 |  9<=9  |13 | 10  | 3,5,3,7,9,1,7,6,11,13| | |
+|11 |10 |  10<=9 | - |  -  | 3,5,3,7,9,1,7,6,11,13| | |
