@@ -531,3 +531,23 @@ Datos de salida: sumA/contA, mayor, contR (en todos)
 ![7_DFD_DoWhile_Run1](https://user-images.githubusercontent.com/113320901/197447522-ec9e711b-ab76-4d14-9fdc-5a70674d678d.png)
 
 ![7_DFD_DoWhile_Run2](https://user-images.githubusercontent.com/113320901/197447541-21ecd352-79b2-4748-aa11-b7a000a4998f.png)
+
+
+## Ejercicio 8.- Capturar dos números y decir cuál es el mayor.
+### ANÁLISIS
+Datos de entrada: n1, n2.\
+Variables: n1, n2\
+Datos de salida: n1,n2
+### DFD
+![1_DFD_Extra](https://user-images.githubusercontent.com/113320901/197676969-31debbc2-db10-4631-a210-2f7f97807e83.png)
+
+#### PRUEBA DE ESCRITORIO 
+| # | n1 | n2 | n1>2| mayor|
+| --|-- |---- |--- |---- |
+| 1 | 3 |  6  |  3>2  sí|  n1  |
+| 2 | 7 |  9  |  7>9  no|  n2  | 
+| 3 | 3 |  1  | 3>1   sí|  n1  | 
+| 4 |23 |  8  | 23>8  sí|  n1  | 
+| 5 | 4 | 35  | 4>35  no|  n2  | 
+| 6 | 5 |  4  | 5>4   sí|  n1  | 
+| 7 | 6 |  5  | 6>5   sí|  n1  |
