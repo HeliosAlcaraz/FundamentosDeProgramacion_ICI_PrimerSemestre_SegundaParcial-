@@ -584,3 +584,6 @@ Datos de salida: A
 |11 |10 |  10<10 | - |  -  | 3,5,3,7,9,1,7,6,11,13|
 
 #### CÓDIGO EN JAVA
+![Extra2](https://user-images.githubusercontent.com/113320901/197682962-95512182-cf40-49e5-9d20-992e65c0c961.png)
+
+![Extra2_Run](https://user-images.githubusercontent.com/113320901/197682984-c393fe71-fbd6-4fa1-a93e-608fbe12aa26.png)
