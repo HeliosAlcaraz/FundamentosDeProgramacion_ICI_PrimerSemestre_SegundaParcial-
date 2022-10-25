@@ -551,3 +551,12 @@ Datos de salida: n1,n2
 | 5 | 4 | 35  | 4>35  no|  n2  | 
 | 6 | 5 |  4  | 5>4   sí|  n1  | 
 | 7 | 6 |  5  | 6>5   sí|  n1  |
+
+#### CÓDIGO EN JAVA
+![Extra1](https://user-images.githubusercontent.com/113320901/197679632-88afb9fc-d9b2-436d-8bd3-ba22ea31a4e2.png)
+
+![Extra1_Run](https://user-images.githubusercontent.com/113320901/197679918-085ad15f-8ca6-4263-9f7d-deb65cb1e433.png)
+
+![Extra1_Run2](https://user-images.githubusercontent.com/113320901/197680063-3bd64e8d-d802-4d95-8e5f-712b0389fc9a.png)
+
+
