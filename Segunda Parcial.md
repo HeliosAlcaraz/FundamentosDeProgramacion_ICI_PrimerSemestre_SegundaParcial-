@@ -560,3 +560,27 @@ Datos de salida: n1,n2
 ![Extra1_Run2](https://user-images.githubusercontent.com/113320901/197680063-3bd64e8d-d802-4d95-8e5f-712b0389fc9a.png)
 
 
+## Ejercicio 9.- Capturar diez números enteros positivos y almacenarlos en un vector de diez.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: n, A, i\
+Datos de salida: A
+### DFD
+![2_DFD_Extra](https://user-images.githubusercontent.com/113320901/197680421-d771846c-1a70-4d5d-b9c8-7a1e1307b86c.png)
+
+#### PRUEBA DE ESCRITORIO 
+| # | i | i<10 | n | i++| A|
+| --|-- |---- |--- |---- |---- |
+| 1 | 0 |  0<10  | 3 |  1 |  3|
+| 2 | 1 |  1<10  | 5 |  2  | 3,5|
+| 3 | 2 |  2<10  | 3 |  3  | 3,5,3|
+| 4 | 3 |  3<10  | 7 |  4  | 3,5,3,7|
+| 5 | 4 |  4<10  | 9 |  5  | 3,5,3,7,9|
+| 6 | 5 |  5<10  | 1 |  6  | 3,5,3,7,9,1|
+| 7 | 6 |  6<10  | 8 |  7  | 3,5,3,7,9,1,7|
+| 8 | 7 |  7<10  | 6 |  8  | 3,5,3,7,9,1,7,6|
+| 9 | 8 |  8<10  |11 |  9  | 3,5,3,7,9,1,7,6,11|
+|10 | 9 |  9<10  |13 | 10  | 3,5,3,7,9,1,7,6,11,13|
+|11 |10 |  10<10 | - |  -  | 3,5,3,7,9,1,7,6,11,13|
+
+#### CÓDIGO EN JAVA
