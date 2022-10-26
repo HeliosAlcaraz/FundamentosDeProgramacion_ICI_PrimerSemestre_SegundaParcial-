@@ -629,6 +629,11 @@ Datos de salida: mayor
 ![4_DFD_Extra](https://user-images.githubusercontent.com/113320901/197912525-f70724aa-d4dd-46d7-b89a-d395b2fca593.png)
 
 #### PRUEBA DE ESCRITORIO
+| #  | i | i<=9 | n | i++ | num[i]=n |     |
+|--- |-- |----- |-- |---- |--------- |---- |
+| 1  | 0 | 0<=9 |    |  1   |     |     |
+| 2  | 1 | 1<=9 |    |  2   |     |     |
+| 3  | 2 | 2<=9 |    |  3   |     |     |
 
 #### CÓDIGO EN JAVA
 ![Extra4_1](https://user-images.githubusercontent.com/113320901/197916359-a6a6c969-ae79-4594-abac-b535ebcb29b2.png)
