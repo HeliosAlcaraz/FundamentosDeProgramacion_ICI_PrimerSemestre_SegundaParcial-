@@ -627,3 +627,12 @@ Variables: n, num, d, i, dist, mayor\
 Datos de salida: mayor
 ### DFD
 ![4_DFD_Extra](https://user-images.githubusercontent.com/113320901/197912525-f70724aa-d4dd-46d7-b89a-d395b2fca593.png)
+
+#### PRUEBA DE ESCRITORIO
+
+#### CÓDIGO EN JAVA
+![Extra4_1](https://user-images.githubusercontent.com/113320901/197916359-a6a6c969-ae79-4594-abac-b535ebcb29b2.png)
+
+![Extra4_2](https://user-images.githubusercontent.com/113320901/197916373-87e209c1-7c8e-4847-9c63-573b5e3acaa2.png)
+
+![Extra4_Run](https://user-images.githubusercontent.com/113320901/197916394-d13fe386-b4f1-4ec2-b278-cee7740b09ad.png)
