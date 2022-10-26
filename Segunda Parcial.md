@@ -610,3 +610,10 @@ Datos de salida: num, mayor, menor
 | 9 | 8 |  8<=9  |11 |  9  | 8,6,3,7,9,1,8,2,11| 9>11 | 11 | 1<11 | 1 |
 |10 | 9 |  9<=9  |15 | 10  | 8,6,3,7,9,1,8,6,11,15| 11>15 | 15 | 1<15 | 1 |
 |11 |10 |  10<=9 | - |  -  | 8,6,3,7,9,1,8,6,11,15| - | 15 | - | 1 |
+
+#### CÓDIGO EN JAVA
+![Extra3_1](https://user-images.githubusercontent.com/113320901/197907411-416a8585-34f1-4d5e-98c2-0826e9e12bbb.png)
+
+![Extra3_2](https://user-images.githubusercontent.com/113320901/197907436-b143db63-240d-4d7c-8034-ade2cf4a8e23.png)
+
+![Extra3_Run](https://user-images.githubusercontent.com/113320901/197907459-b53e5567-2b53-4ac8-a0d0-a70f9eb2b52a.png)
