@@ -588,6 +588,7 @@ Datos de salida: A
 
 ![Extra2_Run](https://user-images.githubusercontent.com/113320901/197682984-c393fe71-fbd6-4fa1-a93e-608fbe12aa26.png)
 
+
 ## Ejercicio 10.- Capturar diez números enteros positivos, almacenarlos en un vector de diez y decir qué número es el mayor y cuál es el menor.
 ### ANÁLISIS
 Datos de entrada: n\
@@ -617,3 +618,12 @@ Datos de salida: num, mayor, menor
 ![Extra3_2](https://user-images.githubusercontent.com/113320901/197907436-b143db63-240d-4d7c-8034-ade2cf4a8e23.png)
 
 ![Extra3_Run](https://user-images.githubusercontent.com/113320901/197907459-b53e5567-2b53-4ac8-a0d0-a70f9eb2b52a.png)
+
+
+## Ejercicio 10.- Capturar diez números enteros positivos, almacenarlos en un vector de diez y decir qué número es el mayor y cuál es el menor.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: n, num, d, i, dist, mayor\
+Datos de salida: mayor
+### DFD
+![4_DFD_Extra](https://user-images.githubusercontent.com/113320901/197912525-f70724aa-d4dd-46d7-b89a-d395b2fca593.png)
