@@ -692,3 +692,21 @@ Datos de salida: A
 ![Extra5](https://user-images.githubusercontent.com/113320901/198363968-cfcf84bb-3f53-42e5-85f4-9d3086345cea.png)
 
 ![Extra5_Run](https://user-images.githubusercontent.com/113320901/198363997-97d56629-9d3b-40bb-b372-545c0f968d53.png)
+
+## Ejercicio 13.- Hacer un diagrama de flujo de datos, con su respectivo código, para que imprima el siguiente dibujo.
+*
+**
+***
+****
+*****
+### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: n\
+Datos de salida: 
+*
+**
+***
+****
+*****
+### DFD
+![6_DFD_Extra](https://user-images.githubusercontent.com/113320901/198418081-3ceba411-2a2e-4856-8666-2bee155679ae.png)
