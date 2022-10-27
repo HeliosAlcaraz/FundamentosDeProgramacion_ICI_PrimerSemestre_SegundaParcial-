@@ -687,3 +687,8 @@ Datos de salida: A
 | 9  | 8 | 8<10 |   9  |  9  |   A[8]=2*9  |    10    |
 |10  | 9 | 9<10 |  10  | 10  |   A[9]=2*10 |    11    |
 |11  |10 | 10<10|  11  |  -  |       -     |     -    |
+
+#### CÓDIGO EN JAVA
+![Extra5](https://user-images.githubusercontent.com/113320901/198363968-cfcf84bb-3f53-42e5-85f4-9d3086345cea.png)
+
+![Extra5_Run](https://user-images.githubusercontent.com/113320901/198363997-97d56629-9d3b-40bb-b372-545c0f968d53.png)
