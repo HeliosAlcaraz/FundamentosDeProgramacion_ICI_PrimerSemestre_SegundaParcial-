@@ -693,12 +693,11 @@ Datos de salida: A
 
 ![Extra5_Run](https://user-images.githubusercontent.com/113320901/198363997-97d56629-9d3b-40bb-b372-545c0f968d53.png)
 
-## Ejercicio 13.- Hacer un diagrama de flujo de datos, con su respectivo código, para que imprima el siguiente dibujo.
-![Asteriscos](https://user-images.githubusercontent.com/113320901/198418337-da2ebbc3-ece0-4ea9-a544-16cbef7316ad.png)
+## Ejercicio 13.- Hacer un diagrama de flujo de datos, con su respectivo código, para que imprima el siguiente dibujo. ![Asteriscos](https://user-images.githubusercontent.com/113320901/198418492-e2063b2f-6e07-461c-9f06-4b92df42e8b0.png)
+
 ### ANÁLISIS
 Datos de entrada: ninguno\
 Variables: n\
-Datos de salida: 
-![Asteriscos](https://user-images.githubusercontent.com/113320901/198418361-4b7e71e5-9d33-45c2-8b69-91fb2f54fadd.png)
+Datos de salida: ![Asteriscos](https://user-images.githubusercontent.com/113320901/198418538-2e7bab45-e93e-48ae-9dfa-2d9324c53f74.png)
 ### DFD
 ![6_DFD_Extra](https://user-images.githubusercontent.com/113320901/198418081-3ceba411-2a2e-4856-8666-2bee155679ae.png)
