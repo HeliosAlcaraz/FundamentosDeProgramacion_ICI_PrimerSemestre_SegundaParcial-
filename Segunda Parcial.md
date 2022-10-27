@@ -620,7 +620,7 @@ Datos de salida: num, mayor, menor
 ![Extra3_Run](https://user-images.githubusercontent.com/113320901/197907459-b53e5567-2b53-4ac8-a0d0-a70f9eb2b52a.png)
 
 
-## Ejercicio 10.- Capturar diez números enteros positivos, almacenarlos en un vector de diez y decir qué número es el mayor y cuál es el menor.
+## Ejercicio 11.- Capturar diez números enteros positivos, almacenarlos en un vector de diez y decir qué número es el mayor y cuál es el menor.
 ### ANÁLISIS
 Datos de entrada: n\
 Variables: n, num, d, i, dist, mayor\
@@ -663,3 +663,27 @@ Datos de salida: mayor
 ![Extra4_2](https://user-images.githubusercontent.com/113320901/197916373-87e209c1-7c8e-4847-9c63-573b5e3acaa2.png)
 
 ![Extra4_Run](https://user-images.githubusercontent.com/113320901/197916394-d13fe386-b4f1-4ec2-b278-cee7740b09ad.png)
+
+
+## Ejercicio 12.- Almacene en un vector (también llamado arreglo), el resultado de una tabla de multiplicar.
+### ANÁLISIS
+Datos de entrada: num\
+Variables: num, A, i, cont\
+Datos de salida: A
+### DFD
+![5_DFD_Extra](https://user-images.githubusercontent.com/113320901/198360178-c6f87a48-824c-4f07-9f26-f29efe639ec4.png)
+
+#### PRUEBA DE ESCRITORIO
+| #  | i | i<10 | cont | i++ |A[i]=num*cont|  cont++  |     
+|--- |-- |----- |----- |---- |------------ |--------- |
+| 1  | 0 | 0<10 |   1  |  1  |   A[0]=2*1  |     2    |     
+| 2  | 1 | 1<10 |   2  |  2  |   A[1]=2*2  |     3    |     
+| 3  | 2 | 2<10 |   3  |  3  |   A[2]=2*3  |     4    |     
+| 4  | 3 | 3<10 |   4  |  4  |   A[3]=2*4  |     5    |   
+| 5  | 4 | 4<10 |   5  |  5  |   A[4]=2*5  |     6    | 
+| 6  | 5 | 5<10 |   6  |  6  |   A[5]=2*6  |     7    | 
+| 7  | 6 | 6<10 |   7  |  7  |   A[6]=2*7  |     8    |
+| 8  | 7 | 7<10 |   8  |  8  |   A[7]=2*8  |     9    |
+| 9  | 8 | 8<10 |   9  |  9  |   A[8]=2*9  |    10    |
+|10  | 9 | 9<10 |  10  | 10  |   A[9]=2*10 |    11    |
+|11  |10 | 10<10|  11  |  -  |       -     |     -    |
