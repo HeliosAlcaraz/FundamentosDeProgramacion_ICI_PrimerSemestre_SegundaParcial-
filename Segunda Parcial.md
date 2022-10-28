@@ -737,3 +737,8 @@ Datos de salida:
 | 5  | 5 | 5 | 5<=5  |  6  |  5  |     5<=5    |  6  | 
 
 ![Asteriscos](https://user-images.githubusercontent.com/113320901/198420083-1d4394a3-4546-442a-8e37-e2dc7aa35784.png)
+
+#### CÓDIGO EN JAVA
+![Extra6](https://user-images.githubusercontent.com/113320901/198420961-0e0303ef-e684-43fb-b096-067eb83323ee.png)
+
+![Extra6_Run](https://user-images.githubusercontent.com/113320901/198420982-f9b3ec0f-dd84-4066-a9a6-cfc25cdab675.png)
