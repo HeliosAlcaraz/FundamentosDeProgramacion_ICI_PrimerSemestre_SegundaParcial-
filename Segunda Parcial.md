@@ -706,3 +706,34 @@ Datos de salida:
 ![Asteriscos](https://user-images.githubusercontent.com/113320901/198418538-2e7bab45-e93e-48ae-9dfa-2d9324c53f74.png)
 ### DFD
 ![6_DFD_Extra](https://user-images.githubusercontent.com/113320901/198418081-3ceba411-2a2e-4856-8666-2bee155679ae.png)
+
+#### PRUEBA DE ESCRITORIO
+| #  | i | n | i<=n | i++ |j|  j<=i  | j++ |     
+|--- |-- |----- |----- |---- |------------ |--------- |--------- |
+| 1  | 1 | 5 | 1<=5  |  2  |  1  |     1<=1    |  2  |  
+
+![Asteriscos1](https://user-images.githubusercontent.com/113320901/198419617-1df6e9ff-7942-476c-bb39-a4af17086278.png)
+
+| #  | i | n | i<=n | i++ |j|  j<=i  | j++ |     
+|--- |-- |----- |----- |---- |------------ |--------- |--------- |
+| 2  | 2 | 5 | 2<=5  |  3  |  2  |     2<=2    |  3  | 
+
+![Asteriscos2](https://user-images.githubusercontent.com/113320901/198419768-ea47ce70-8dd5-4fb6-a9b1-c11ecd9b966b.png)
+
+| #  | i | n | i<=n | i++ |j|  j<=i  | j++ |     
+|--- |-- |----- |----- |---- |------------ |--------- |--------- |
+| 3  | 3 | 5 | 3<=5  |  4  |  3  |     3<=3    |  4  | 
+
+![Asteriscos3](https://user-images.githubusercontent.com/113320901/198419851-a5c9c6f8-0c34-43a7-ac54-563d37466d33.png)
+
+| #  | i | n | i<=n | i++ |j|  j<=i  | j++ |     
+|--- |-- |----- |----- |---- |------------ |--------- |--------- |
+| 4  | 4 | 5 | 4<=5  |  5  |  4  |     4<=4    |  5  | 
+
+![Asteriscos4](https://user-images.githubusercontent.com/113320901/198419969-871b041a-496e-45ef-bb9a-31885794673a.png)
+
+| #  | i | n | i<=n | i++ |j|  j<=i  | j++ |     
+|--- |-- |----- |----- |---- |------------ |--------- |--------- |
+| 5  | 5 | 5 | 5<=5  |  6  |  5  |     5<=5    |  6  | 
+
+![Asteriscos](https://user-images.githubusercontent.com/113320901/198420083-1d4394a3-4546-442a-8e37-e2dc7aa35784.png)
